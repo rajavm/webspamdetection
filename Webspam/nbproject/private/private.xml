@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/contentspam/contentfeature_analysis.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/Webspam.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/contentspam/boilerpipe.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/cumulative_analysis.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/spamtest.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/classtagging2006.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/contentspam/SpamDetectionTestUpdated.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/contentspam/features_from_dataset.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/contentextraction.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/evaluation.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/lda/runjar.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/HTMLFetcher.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/linkspam/boostingpage_identification.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/ExtractorBase.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/linkspam/inlink_extraction.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/contentspam/SpamDetection.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/HTMLDocument.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/DefaultExtractor.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/boilerpipe.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/webspam/classtagging.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/lda/content_extraction_testdata.java</file>
+            <file>file:/C:/Users/ANANDRAJ/Documents/NetBeansProjects/Webspam/src/lda/content_extraction.java</file>
+        </group>
+    </open-files>
+</project-private>
